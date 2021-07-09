@@ -8,3 +8,5 @@ pizza
 doritos
 cake
 fried chicken
+spaghetti
+tacos 
