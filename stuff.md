@@ -2,8 +2,11 @@ stuff to save
 more things to save here
 
 
-dream shopping list 
+dream shopping list
 
 pizza
 doritos
 cake
+fried chicken
+spaghetti
+tacos 
